@@ -70,7 +70,7 @@ const Index = () => {
                                                                 Whitney Houston, and many more. I have also  been invited to 10
                                                                 Downing Street once to talk about Knife Crime.</p>
                                         <br />
-                                        <Button style={{color: 'white'}} size='large' color='primary' align="center" href="https://calendly.com/morristheconnector" variant="contained">BOOK NOW ON CALENDLY</Button>
+                                        <Button style={{color: 'white', align: 'center'}} size='large' color='primary' align="center" href="https://calendly.com/morristheconnector" variant="contained">BOOK NOW ON CALENDLY</Button>
                                         <br />
                                         <br />
                                         <br />
