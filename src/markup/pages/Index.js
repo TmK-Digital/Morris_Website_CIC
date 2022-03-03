@@ -67,9 +67,10 @@ const Index = () => {
                                                                 certainly did that for me. Against all odds I navigated my way through
                                                                 the obstacles in life to become a successful business man working with
                                                                 some of the biggest pop stars in the world like Justin Bieber, Beyonce
-                                                                Whitney Houston, and many more. I have also have been invited to 10
-                                                                Downing Street once to talk about Knife Crime .</p>
-                      
+                                                                Whitney Houston, and many more. I have also  been invited to 10
+                                                                Downing Street once to talk about Knife Crime.</p>
+                                        <br />
+                                        <Button style={{color: 'white'}} size='large' color='primary' align="center" href="https://calendly.com/morristheconnector" variant="contained">CHECK OUT MY CALENDLY</Button>
                        
                         </div>
                     </div>
@@ -134,7 +135,7 @@ const Index = () => {
                 <div className="row">
                     <div className="col-lg-6">
                         <div className="intro-content">
-                            <h2 style={{paddingBottom:50}}>Our Team</h2>
+                            <h1 style={{paddingBottom:50}}>Our Team</h1>
                             <br></br>
                             
                             <h3 className="right-align">Morris The Connector</h3>
@@ -160,11 +161,26 @@ const Index = () => {
                         <div className="intro-content">
                    
                             <h3 style={{marginTop:100}} className="right-align">Eric Appiah-Agyemang</h3>
-                            <p className="paragraph-lg c-grey">I wanted to take this time to let you know more about me, how I got to this point in my life and, more importantly, how I can use the skills I have learned to help you.</p>
 
-                            <p className="paragraph-lg c-grey">Like almost every single one of you reading this, my life has had its fair share of good times and bad. I’ve been blessed to have been able to revel in some incredible highlights, but they have also been interspersed with tragedy that would have broken many others. Trust me, it came close to breaking me too, but here I am.</p>
+                                        <p className="paragraph-lg c-grey">Eric Appiah-Agyemangan experienced mentor/ teaching assistant
+                                        who has worked across a range of settings in supporting children and
+                                        young people with barriers to learning such as SEMH, Autism and
+                                        special educational needs.</p>
 
-                            <p className="paragraph-lg c-grey">Like almost every single one of you reading this, my life has had its fair share of good times and bad. I’ve been blessed to have been able to revel in some incredible highlights, but they have also been interspersed with tragedy that would have broken many others. Trust me, it came close to breaking me too, but here I am.</p>
+                            <p className="paragraph-lg c-grey">He has the skills in collaborative working
+                                        across year groups and departments as well as with external
+                                        stakeholders. Excellent empathy that understands the various needs
+                                        of learners and supporting these accordingly through a series of
+                                        learning tasks whilst promoting independence and self-reliance.
+                                        </p>
+                            
+                             <p className="paragraph-lg c-grey">Eric is a great team player with excellent communication skills and the
+                                        ability to establish a rapport with pupils, parents and staff. A leader
+                                        who is able to take own initiative and find solutions in difficult
+                                        situations. He is also very organised and is able to work under pressure
+                                        and meet deadlines. With a keenness to see every pupil succeed and
+                                        achieve their potential.</p>
+
                         </div>
                     </div>
                     <div className="col-6">
@@ -217,7 +233,7 @@ const Index = () => {
                     </div>
              {/* Our Team Section Ends*/}
           
-             <YoutubeEmbed embedId="-5D3r3DO1x8" />
+             <YoutubeEmbed embedId="ghr1npCJLOc" />
 
                   {/* Our Team Section Starts*/}
             <div className="intro">
@@ -240,7 +256,7 @@ const Index = () => {
                                                                 improve their ability to navigate in today's fast-paced work.</p>
                                                                 <div style= {{align: 'center'}} className="button-group">
                                              
-                                                                <Button size='large' color='success'  href="https://gofund.me/94251c6b" variant="contained">Donate Now</Button>
+                                                                <Button style={{color: 'white'}} size='large' color='success'  href="https://gofund.me/94251c6b" variant="contained">DONATE NOW GOFUNDME</Button>
                                            
                                             </div>
                         </div>

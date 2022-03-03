@@ -1,7 +1,7 @@
 import React from 'react'
 
 // react router dom
-import { Link } from 'react-router-dom';
+//import { Link } from 'react-router-dom';//
 
 const Footer = () => {
     return (
@@ -13,8 +13,17 @@ const Footer = () => {
                             <div className="footer-content">
                                 <h6 className="txt-sm c-primary f-w-500 txt-upper">Contact Us</h6>
                                 <ul className="txt-sm-1 c-grey number-list">
+                                    <li>   
+                                        <a href="tel:02087575646" className="link  link-md link-grey">
+                                            <span>020 8757 5646</span> 
+                                            </a>
+                                    </li>
+                                    <li>   
+                                        <a href="tel:+447977772222" className="link  link-md link-grey">
+                                            <span>07977772222</span> 
+                                            </a>
+                                    </li>
                                     <li>
-                                        
                                         <a href="emailto:info@morristheconnector.com" className="link  link-md link-grey">
                                             <span>info@morristheconnector.com</span>                    
                                         </a>
