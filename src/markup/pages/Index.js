@@ -60,13 +60,13 @@ const Index = () => {
                                                                 world as they are the future. I came from a disadvantaged
                                                                 background, a broken home, failed in school, turned to crime and
                                                                 started selling drugs, I then ended up in prison along with many
-                                                                personal trials along the way. Like losing my 18 Month old son Dwayne
+                                                                personal trials along the way. Like losing my 18 Month old son Dwain
                                                                 and many more adversity .</p>
 
                             <p className="paragraph-lg c-grey">They say Adversity introduces a man or Women to themselves it
                                                                 certainly did that for me. Against all odds I navigated my way through
                                                                 the obstacles in life to become a successful business man working with
-                                                                some of the biggest pop stars in the world like Justin Bieber, Beyonce
+                                                                some of the biggest pop stars in the world like Justin Bieber, Beyonce,
                                                                 Whitney Houston, and many more. I have also  been invited to 10
                                                                 Downing Street once to talk about Knife Crime.</p>
                                         <br />
@@ -98,7 +98,7 @@ const Index = () => {
                         <div className="row">
                             <div className="icon-text-box icon-text-box-large txt-center">
                            
-                                <h3 className="f-w-400 c-dark-2">My journey has been inspiring to others which has lead me to
+                                <h3 className="f-w-400 c-dark-2">My journey has been inspiring to others which has propelled me to
                                                                 becoming a inspirational speaker and transformational Coach.</h3>
                                 <h4 className="f-w-400 c-grey">" Morris The Connector "</h4>
                             </div>
@@ -146,7 +146,7 @@ const Index = () => {
 
                             <p className="paragraph-lg c-grey">Like almost every single one of you reading this, my life has had its fair share of good times and bad. I’ve been blessed to have been able to revel in some incredible highlights, but they have also been interspersed with tragedy that would have broken many others. Trust me, it came close to breaking me too, but here I am.</p>
 
-                            <p className="paragraph-lg c-grey">From growing up in the harsh inner city, I’ve known what it’s like to be down there looking up. From times when I’ve had absolutely nothing, I’ve worked hard. Eventually leading me to start up my own Executive Chaffeur business working with clients that have included Floyd Mayweather, Beyoncé, Justin Bieber and the late great Whitney Houston to name a few.</p>
+                            <p className="paragraph-lg c-grey">From growing up in the harsh inner city, I’ve known what it’s like to be down there looking up. From times when I’ve had absolutely nothing, I’ve worked hard. Eventually leading me to start up my own Executive chauffeur business working with clients that have included Floyd Mayweather, Beyonce, Justin Bieber and the late great Whitney Houston to name a few.</p>
                         </div>
                     </div>
                     <div className="col-6">
@@ -248,7 +248,7 @@ const Index = () => {
                             <h2 style={{paddingBottom:50}}>Donate For Our Project</h2>
                             <br></br>
                     
-                            <p className="paragraph-lg c-grey">We are Raising funds to provide youth with the life skills (Like taxes, cooking, accounting,
+                            <p className="paragraph-lg c-grey">We are raising funds to provide youth with the life skills (Like taxes, cooking, accounting,
                                                                 survival, emotional intelligence) that mainstream schooling does not
                                                                 provide. Our target is £10,000.
                                                                 </p>
