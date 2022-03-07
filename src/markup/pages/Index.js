@@ -236,7 +236,7 @@ const Index = () => {
                     </div>
              {/* Our Team Section Ends*/}
           
-             <YoutubeEmbed embedId="ghr1npCJLOc" />
+             <YoutubeEmbed embedId="-5D3r3DO1x8" />
 
                   {/* Our Team Section Starts*/}
             <div className="intro">
@@ -266,7 +266,7 @@ const Index = () => {
                     </div>
                     <div className="col-6">
                          <div className="hero-2-image">-
-                  <img style={{}} className="main" src={donateImage} alt="slider" /> 
+                            <img className="main" src={donateImage} alt="slider" /> 
                         </div>
                     </div>
                 </div>
