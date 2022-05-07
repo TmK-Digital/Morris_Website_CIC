@@ -19,6 +19,8 @@ import donateImage from '../../assets/images/donateimg.png';
 import classic from '../../assets/images/classic.jpg';
 import emir from '../../assets/images/emir.jpg';
 import morris from '../../assets/images/morris.JPG';
+import ebook from '../../assets/images/ebook.jpeg' 
+
 
 
 
@@ -138,7 +140,7 @@ const Index = () => {
                 <div className="row">
                     <div className="col-lg-6">
                         <div className="intro-content">
-                            <h1 style={{paddingBottom:50}}>Our Team</h1>
+                            <h1 style={{paddingBottom:50, fontWeight:600}}>Our Team</h1>
                             <br></br>
                             
                             <h3 className="right-align">Morris The Connector</h3>
@@ -245,7 +247,7 @@ const Index = () => {
                 <div className="row">
                     <div className="col-lg-6">
                         <div className="intro-content">
-                            <h2 style={{paddingBottom:50}}>Donate For Our Project</h2>
+                            <h2>Donate For Our Project</h2>
                             <br></br>
                     
                             <p className="paragraph-lg c-grey">We are raising funds to provide youth with the life skills (Like taxes, cooking, accounting,
@@ -274,6 +276,100 @@ const Index = () => {
                 </div>
                     </div>
              {/* Our Team Section Ends*/}
+
+
+                 {/* Wear Your Own Crown*/}
+                 <div className="intro">
+        <div className="intro-wrapper">
+            <div className="container">
+                <div className="row">
+                    <div className="col-lg-6">
+                        <div className="intro-content">
+                            <h2 >WEAR YOUR OWN. <strong>CROWN.</strong> <br/></h2> <h2 style={{fontStyle:'italic'}}>By Morris The Connector</h2>
+                       
+                    
+                            <p className="paragraph-lg c-grey">I am here to impact Inspire and Empower people to wear their Crown. I want to  show people how my sons death saved my life so I am now able to save Millions of lives. I am a former drug dealer and Gang member. But now I am a  Game Changer.</p>
+
+                            <p className="paragraph-lg c-grey">I am a Life Coach and Inspirational Speaker  that can show people how to get the best out of themselves with my Program called the incredible You, which will show people  how to get unstuck and connect with their inner self which is the real you 🙏🏾.</p>
+
+                            <p className="paragraph-lg c-grey">
+                            We are all born Leaders . Kings 👑and Queens, 👑it’s about finding your gift and purpose in life . And then serving with it, life happens for you not to you.
+                            </p>
+
+                            <p className="paragraph-lg c-grey">
+                            I used to say WHY ME when I was in my darkest hour. My brother was stabbed to death when I was 14 years old he was 19 years old, that was the first death in my family that I can remember . I then lost my  my son who was 18 Months old 30 years ago then my sister in 2007, Mother in 2010. Father 2011, Wife 2015. And another Son in 2018. 
+                            </p>
+                            
+                            <p className="paragraph-lg c-grey">
+                            The pain that I suffered has made me a person of resilient that now knows how to transmit  that pain into a gift which has now become my purpose , by showing people how they too can overcome Adversity in their life, and then use it as a gift in the way that I have. 
+                            </p>
+                            
+                            <p className="paragraph-lg c-grey">
+                            My light has now been switched on i can see clearly now in a way that has enabled me to be able to switch on other people’s lights .
+                            </p>
+
+                            <p className="paragraph-lg c-grey">
+                            <strong>
+                            NOW I SAY TRY ME
+                            </strong>
+                            </p>
+
+                            <p className="paragraph-lg c-grey">
+                            I am now an inspirational speaker Author and I am also filming a Documentary of my life which will be made into a film later on. I have had my fare share of hard knocks. I have found my true purpose and gift in life, I am here to serve with my knowledge and wisdom. And to Connect  with like minded people. .🙏🏾
+                            </p>
+
+                            <p className="paragraph-lg c-grey">
+                            I once also got asked to tell my life story on one of the largest Radio stations in London called the BBC
+                            You can listen to it on my website.    
+                            www.morristheconnector.com🙏🏾
+                            </p>
+
+                            <p className="paragraph-lg c-grey">
+                            I am also a business owner of a Chauffeur Company, called 
+                            The Connector Services LTD 
+                            We have driven some of the biggest pop stars in the world, Clients like Justin Bieber, Beyonce, Whitney Houston,Usher Raymond And many more .
+                            I am now a Mentor to many kids
+                            I have been going to Schools and teaching kids how they can change from a Follower to be a leader we are all born to lead:
+                            </p>
+
+                            <p className="paragraph-lg c-grey">
+                            Also I recently went to Ethiopia to visit my daughter than now teaches  English out there and seeing the struggle the Children faced with resources made me have a Vision and Mission to get a team together to open a school in Ethiopia for Orphaned kids, and also one in London that teaches life skills and Empowerment .
+                            </p>
+
+                            <p className="paragraph-lg c-grey">
+                            we need to realise that the kids never asked to be here. They are also the future of the world.🙏🏾👊🏿
+                            </p>
+                            
+                            <p className="paragraph-lg c-grey">I am looking for like minded people that share my vision and Mission which is to get the resources out to Ethiopia for the Children, so they can become Champions in the world. .
+                            </p>
+
+     
+                          
+                            <Button style={{color: 'white', marginTop: 20}} size='large' color='primary' href="https://flipbookhosting.com/wear-your-own-crown/" variant="contained">Download E-Book</Button>
+                      
+
+
+
+                             { /* <div style= {{align: 'center'}} className="button-group">
+                                             
+                             { /*<Button style={{color: 'white'}} size='large' color='success'  href="https://gofund.me/94251c6b" variant="contained">DONATE NOW GOFUNDME</Button> X}
+                                           
+                            </div> */}
+                        </div>
+                    </div>
+                    <div className="col-6">
+                         <div className="hero-2-image">
+                            <img className="main" src={ebook} alt="slider" /> 
+                         
+                        </div>
+                    </div>
+                </div>
+         </div>
+                </div>
+                    </div>
+
+                
+             {/* Wear Your Own Crown Ends*/}
 
             
              
